@@ -1,2 +1,2 @@
 # Java-Maven-Test
-Learning about Maven
+Converted the CISC275 project to a Maven project
