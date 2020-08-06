@@ -1,8 +1,0 @@
-plant/Achillea-filipendulina-Coronation-Gold
-plant/Achillea-millefolium
-plant/Achillea-millifolium-Terracotta
-plant/Carex-montana
-plant/Eryngium-planum-BlueCap
-plant/Helianthus-occidentalis-ssp-dowelianus
-plant/Molinia-caerulea-ssp-arundinacea-Windspiel
-plant/Origanum-laevigatum-Herrenhausen

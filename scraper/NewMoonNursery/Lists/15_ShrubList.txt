@@ -1,4 +1,0 @@
-plant/Ceanothus-americanus
-plant/Cephalanthus-occidentalis
-plant/Hypericum-calycinum
-plant/Teucrium-chamaedrys
